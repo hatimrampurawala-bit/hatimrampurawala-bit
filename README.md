@@ -22,8 +22,4 @@ files over databases · plain text over platforms · CLI over GUI whenever I can
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hatimrampurawala-bit&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="stats" />
-</p>
-
 <p align="center">📍 Nashik, India</p>
